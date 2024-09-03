@@ -1,0 +1,1 @@
+background of voting section
